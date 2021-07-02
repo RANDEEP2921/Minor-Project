@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GoCycle</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="go_cycle">GoCycle</string>
+    <string name="profile">Profile</string>
+    <string name="p1">p1</string>
+    <string name="profile_r">PROFILE</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_phone">Enter your Phone</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="enter_your_Name">Enter your name</string>
+    <string name="enter_your_Email">Enter your email</string>
+    <string name="enter_your_Password">Enter your password</string>
+    <string name="enter_your_phone_Number">Enter your phone number</string>
+    <string name="enter_your_Address">Enter your address</string>
+    <string name="Submit">SUBMIT</string>
+    <string name="Cancel">CANCEL</string>
+    <string name="GoCycle">GoCycle</string>
+    <string name="b1">b1</string>
+    <string name="b2">b2</string>
+    <string name="b3">b3</string>
+    <string name="b4">b4</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "GoCycle"
+include ':app'

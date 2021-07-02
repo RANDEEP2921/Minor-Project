@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ECBCCC"
+            android:fontFamily="@font/gravitas_one"
+            android:text="@string/GoCycle"
+            android:textAlignment="center"
+            android:textColor="@color/purple_700"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:layout_marginTop="0dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/purple_500"
+            android:fontFamily="@font/gravitas_one"
+            android:textAlignment="center"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:contentDescription="@string/b1"
+            android:scaleType="fitXY"
+            android:src="@drawable/b1" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/b2"
+            android:scaleType="fitXY"
+            android:contentDescription="@string/b2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/purple_500"
+            android:fontFamily="@font/gravitas_one"
+            android:textAlignment="center"
+            android:textSize="12sp" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/b3"
+            android:scaleType="fitXY"
+            android:contentDescription="@string/b3" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/purple_500"
+            android:fontFamily="@font/gravitas_one"
+            android:textAlignment="center"
+            android:textSize="12sp"
+            />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/b4"
+            android:scaleType="fitXY"
+            android:contentDescription="@string/b4" />
+    </LinearLayout>
+</ScrollView>

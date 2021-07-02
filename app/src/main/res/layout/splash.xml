@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/cy_image"
+        android:scaleType="fitXY"
+        />
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GoCycle"
+        android:textSize="60sp"
+        android:textColor="@android:color/holo_green_dark"
+        android:fontFamily="@font/gravitas_one"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        />
+
+</RelativeLayout>
